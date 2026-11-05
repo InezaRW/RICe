@@ -2,7 +2,7 @@
 
 As part of our ISO/IEC 27001:2022 implementation, we need to have a solution that supports the employee lifecycle from joining the organization through employment changes and eventual termination.
 
-The main ISO/IEC 27001:2022 controls this will supports are:
+The main ISO/IEC 27001:2022 controls this will supports are
 
 - **A.6.1 - Screening**
 - **A.6.2 - Terms and Conditions of Employment**
